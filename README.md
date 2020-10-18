@@ -1,2 +1,2 @@
 # T-SQL-Pet-project
-This procedure created for exchange data between web-interface and backend on t-sql language. Input message is json, procedure analyse json and delivering data to methods. In methods we can see some logic which return succes or unsucces operation. 
+This procedure is created to exchange data between web-interface and backend on t-sql language. Procedure analyses inputed json message and delivers data to methods. Methods have some logic which return success or unsuccess status of operation response.
